@@ -16,6 +16,15 @@ we list properties online with blockchain and allow people to buy from blockchai
   width="600" height="500" >
 
 - Ownership transfer process:
+  
+   1. Seller Lists Properties <br>
+   2. Buyer deposit earnset <br>
+   3. Appraisal <br>
+   4. Lender approves <br>
+   5. Lender fund <br>
+   6. Transder ownership <br>
+   7. Seller gets paid <br>
+  
 <img src="https://github.com/Opengundumstyle/HomeChain/blob/main/overview3.png" alt="overview1" 
   width="600" height="500" >
 
