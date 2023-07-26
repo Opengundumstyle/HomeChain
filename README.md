@@ -15,3 +15,9 @@ we list properties online with blockchain and allow people to buy from blockchai
 <img src="https://github.com/Opengundumstyle/HomeChain/blob/main/overview2.png" alt="overview1" 
   width="600" height="500" >
 
+### Tech Stack
+- Solidity
+- Hardhat
+- ERC-721
+- React
+  
