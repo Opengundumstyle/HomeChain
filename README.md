@@ -10,9 +10,13 @@ we list properties online with blockchain and allow people to buy from blockchai
 <img src="https://github.com/Opengundumstyle/HomeChain/blob/main/overview1.png" alt="overview1" 
   width="850" height="500" >
 
-- blockchain
+- blockchain:
 
 <img src="https://github.com/Opengundumstyle/HomeChain/blob/main/overview2.png" alt="overview1" 
+  width="600" height="500" >
+
+- Ownership transfer process:
+<img src="https://github.com/Opengundumstyle/HomeChain/blob/main/overview3.png" alt="overview1" 
   width="600" height="500" >
 
 ### Tech Stack
